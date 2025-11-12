@@ -3,6 +3,9 @@
   <img src="./preview.png" width="600" alt="Fluxo Landing Page Preview">
 </p>
 
+Demo
+<a href="https://zjahanara80.github.io/fluxo-template/">fluxo-template<a>
+
 Overview
 Fluxo is a modern, responsive landing page designed for a social media marketing platform.
 This project was fully implemented based on a Figma design, using clean and semantic HTML and CSS to ensure visual accuracy and responsiveness across devices.
